@@ -14,7 +14,7 @@ Hi, I am Dalia Seyam. I am a data analyst with a curious mind and a passion for 
 
  I volunteered as a teacher assistant in many events 
 
- ### Projects
+### Projects
  
 # [project 1: Instacart Analysis](https://github.com/daliaseyam/INSTACART-PYTHON)
 
