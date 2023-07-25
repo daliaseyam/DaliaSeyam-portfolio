@@ -25,6 +25,9 @@ A data analysis project using PYTHON to analyze data from an online Grocery Bask
 *Tools: Python and Excel 
 * Methodologies: I used statistical methods with Python, Pandas, NumPy, Seaborn and Scipy libraries
 
+ The case study link: [job 1.4.pptx](https://github.com/daliaseyam/DaliaSeyam-portfolio/files/12164927/job.1.4.pptx)
+ 
+
  # [project 2:  Rockbuster Stealth Analysis](https://github.com/daliaseyam/Rockbuster-SQL)
 
  A data analysis project using PostgreSQL to analyze data from a fictional movie rental company, Rockbuster Stealth.
@@ -33,7 +36,10 @@ A data analysis project using PYTHON to analyze data from an online Grocery Bask
 *  A relational database made up of 15 tables contatining data on film rentals, customers, actors, payments and more.
 *  Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary. Visualizations for this project can be found on Tableau
 * (https://public.tableau.com/app/profile/dalia.seyam/viz/3102_16841705079730/Sheet1?publish=yes)
-* TOOLS: Language: PostgreSQL Software: pgAdmin, DbVisualizer, Tableau, Excel 
+* TOOLS: Language: PostgreSQL Software: pgAdmin, DbVisualizer, Tableau, Excel
+
+The case study link: [3-10-2.docx](https://github.com/daliaseyam/DaliaSeyam-portfolio/files/12164945/3-10-2.docx)
+
 
 ### My Resume
 [Dalia_Seyam_Resume (1).pdf](https://github.com/daliaseyam/DaliaSeyam-portfolio/files/12164633/Dalia_Seyam_Resume.1.pdf)
